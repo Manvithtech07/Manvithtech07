@@ -4,8 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manvithsrao&label=Profile%20views&color=0e75b6&style=flat" alt="manvithsrao" /> </p>
 
 
-- I'm currently deepening my knowledge in Data Structures & Algorithms through my DSA Journey.
-
+- I'm currently deepening my knowledge in Data Structures & Algorithms through my [DSA Journey](https://github.com/Manvithtech07/My-DSA-Journey).
+  
 - All of my end to end projects are available at https://github.com/Manvithtech07
 
 - You can reach me at manvithsrao.mks@gmail.com.
