@@ -2,7 +2,6 @@
 <h1 align="center">Hi there, I'm Manvith S Rao </h1>
 <h3 align="center">A Master's student in Computer Science with a passion for Machine Learning and Data Science.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manvithsrao&label=Profile%20views&color=0e75b6&style=flat" alt="manvithsrao" /> </p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Manvithtech07&layout=compact&theme=radical" alt="Top Languages"/>
 
 - I'm currently deepening my knowledge in Data Structures & Algorithms through my [DSA Journey](https://github.com/Manvithtech07/My-DSA-Journey).
   
