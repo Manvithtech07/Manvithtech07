@@ -7,7 +7,7 @@
 
 - All of my end to end projects are available at https://github.com/Manvithtech07
 
-- You can reach me at manvithsrao.work@gmail.com.
+- You can reach me at manvithsrao.mks@gmail.com.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
