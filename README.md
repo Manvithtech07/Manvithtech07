@@ -6,7 +6,7 @@
 - I’m currently working on advanced Machine Learning, Deep Learning, and Computer Vision projects.
 - I regularly practice problem-solving on LeetCode to strengthen my fundamentals in algorithms and coding.
 - All my end-to-end projects are available here: **https://github.com/Manvithtech07**
-- You can reach me at manvithsrao.mks@gmail.com.
+- You can reach me at **manvithsrao.mks@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
