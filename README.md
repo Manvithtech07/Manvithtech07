@@ -1,12 +1,11 @@
 
 <h1 align="center">Hi there, I'm Manvith S Rao </h1>
-<h3 align="center">A Master's student in Computer Science with a passion for Machine Learning and Data Science.</h3>
+<h3 align="center">A Master's student in Computer Science specializing in Machine Learning and Data Science.<br>Passionate about solving real-world problems, and creating end-to-end ML solutions.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manvithsrao&label=Profile%20views&color=0e75b6&style=flat" alt="manvithsrao" /> </p>
 
-- I'm currently deepening my knowledge in Data Structures & Algorithms through my [DSA Journey](https://github.com/Manvithtech07/My-DSA-Journey).
-  
-- All of my end to end projects are available at https://github.com/Manvithtech07
-
+- I’m currently working on advanced Machine Learning, Deep Learning, and Computer Vision projects.
+- I regularly practice problem-solving on LeetCode to strengthen my fundamentals in algorithms and coding.
+- All my end-to-end projects are available here: **https://github.com/Manvithtech07**
 - You can reach me at manvithsrao.mks@gmail.com.
 
 <h3 align="left">Connect with me:</h3>
